@@ -2,30 +2,12 @@ import { CurrentProject } from "../types";
 
 export const currentlyBuilding: CurrentProject[] = [
   {
-    title: "AURA",
+    title: "Locus",
     description:
-      "Autonomous Utility & Resource Assistant — A fully offline AI developer assistant that automates coding workflows using local LLMs, voice commands, and system automation.",
+      "A fully offline AI developer assistant that automates coding workflows using local LLMs, voice commands, and system automation.",
     status: "In Development",
     techStack: ["Python", "Ollama", "Whisper", "ChromaDB", "PyQt6"],
-    link: "https://github.com/aryanjsx/AURA",
-  },
-  {
-    title: "Lyrix",
-    description:
-      "An music streaming platform that transforms YouTube into a premium audio experience. Features smart music and podcast filtering, playlist management, personalized recommendations, and synchronized lyrics in a modern, ad-free interface.",
-    status: "Beta",
-    techStack: [
-      "Next.js",
-      "TypeScript",
-      "Node.js",
-      "Express.js",
-      "MySQL",
-      "Prisma",
-      "YouTube API",
-      "Redis",
-      "Tailwind CSS",
-    ],
-    link: "https://github.com/aryanjsx/Lyrix",
+    link: "https://github.com/aryanjsx/Locus",
   },
   {
     title: "Code Converter",

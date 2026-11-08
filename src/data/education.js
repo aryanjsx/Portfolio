@@ -37,6 +37,13 @@ export const certifications = {
       color_code: "#0078D4",
     },
     {
+      title: "Azure Administrator Associate (AZ-104)",
+      subtitle: "Microsoft",
+      logo_path: "microsoft.svg",
+      certificate_link: "/AZ-104.pdf",
+      color_code: "#0078D4",
+    },
+    {
       title: "Toycathon-21",
       subtitle: "Organized by Govt. of India",
       logo_path: "toycathon.svg",
